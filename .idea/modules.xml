@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FibonacciDiv2/FibonacciDiv2.iml" filepath="$PROJECT_DIR$/FibonacciDiv2/FibonacciDiv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRMCards/SRMCards.iml" filepath="$PROJECT_DIR$/SRMCards/SRMCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShorterSuperSum/ShorterSuperSum.iml" filepath="$PROJECT_DIR$/ShorterSuperSum/ShorterSuperSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThePalindrome/ThePalindrome.iml" filepath="$PROJECT_DIR$/ThePalindrome/ThePalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topcoder_practice.iml" filepath="$PROJECT_DIR$/topcoder_practice.iml" />
+    </modules>
+  </component>
+</project>
