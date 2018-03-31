@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82195481-48fe-42b4-b207-dc161e179ff1" name="Default" comment="" />
+    <list default="true" id="82195481-48fe-42b4-b207-dc161e179ff1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AttendanceShort/AttendanceShort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AttendanceShort/resource/AttendanceShort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AttendanceShort/src/AttendanceShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AttendanceShort/test/AttendanceShortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorfulRoad/ColorfulRoad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorfulRoad/resource/ColorfulRoad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorfulRoad/src/ColorfulRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorfulRoad/test/ColorfulRoadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmoticonsDiv2/EmoticonsDiv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmoticonsDiv2/resource/EmoticonsDiv2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmoticonsDiv2/src/EmoticonsDiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmoticonsDiv2/test/EmoticonsDiv2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoxAndSightseeing/FoxAndSightseeing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoxAndSightseeing/resource/FoxAndSightseeing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoxAndSightseeing/src/FoxAndSightseeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoxAndSightseeing/test/FoxAndSightseeingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeftAndRightHandedDiv2/LeftAndRightHandedDiv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeftAndRightHandedDiv2/resource/LeftAndRightHandedDiv2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeftAndRightHandedDiv2/src/LeftAndRightHandedDiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeftAndRightHandedDiv2/test/LeftAndRightHandedDiv2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiNumber/MultiNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiNumber/resource/MultiNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiNumber/src/MultiNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiNumber/test/MultiNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberofFiboCalls/NumberofFiboCalls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberofFiboCalls/resource/NumberofFiboCalls.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberofFiboCalls/src/NumberofFiboCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberofFiboCalls/test/NumberofFiboCallsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumbersChallenge/NumbersChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumbersChallenge/resource/NumbersChallenge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumbersChallenge/src/NumbersChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumbersChallenge/test/NumbersChallengeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeSoccer/PrimeSoccer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeSoccer/resource/PrimeSoccer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeSoccer/src/PrimeSoccer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeSoccer/test/PrimeSoccerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoWaysSorting/TwoWaysSorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoWaysSorting/resource/TwoWaysSorting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoWaysSorting/src/TwoWaysSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoWaysSorting/test/TwoWaysSortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +55,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,6 +77,18 @@
         <option value="$PROJECT_DIR$/SRMCards/src/SRMCards.java" />
         <option value="$PROJECT_DIR$/ShorterSuperSum/src/ShorterSuperSum.java" />
         <option value="$PROJECT_DIR$/ThePalindrome/src/ThePalindrome.java" />
+        <option value="$PROJECT_DIR$/FoxAndSightseeing/src/FoxAndSightseeing.java" />
+        <option value="$PROJECT_DIR$/ColorfulRoad/src/ColorfulRoad.java" />
+        <option value="$PROJECT_DIR$/MultiNumber/test/MultiNumberTest.java" />
+        <option value="$PROJECT_DIR$/MultiNumber/src/MultiNumber.java" />
+        <option value="$PROJECT_DIR$/PrimeSoccer/src/PrimeSoccer.java" />
+        <option value="$PROJECT_DIR$/NumberofFiboCalls/src/NumberofFiboCalls.java" />
+        <option value="$PROJECT_DIR$/AttendanceShort/src/AttendanceShort.java" />
+        <option value="$PROJECT_DIR$/EmoticonsDiv2/src/EmoticonsDiv2.java" />
+        <option value="$PROJECT_DIR$/LeftAndRightHandedDiv2/src/LeftAndRightHandedDiv2.java" />
+        <option value="$PROJECT_DIR$/NumbersChallenge/src/NumbersChallenge.java" />
+        <option value="$PROJECT_DIR$/TwoWaysSorting/src/TwoWaysSorting.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -31,14 +100,18 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -52,7 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -62,7 +134,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="intellijcoder.idea.ConfigurationForm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,19 +148,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ThePalindromeTest">
+  <component name="RunManager" selected="JUnit.TwoWaysSortingTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FibonacciDiv2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FibonacciDiv2" />
+    <configuration name="EmoticonsDiv2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmoticonsDiv2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FibonacciDiv2Test" />
+      <option name="MAIN_CLASS_NAME" value="EmoticonsDiv2Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea -Xmx256m" />
@@ -100,15 +172,15 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SRMCardsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SRMCards" />
+    <configuration name="LeftAndRightHandedDiv2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeftAndRightHandedDiv2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SRMCardsTest" />
+      <option name="MAIN_CLASS_NAME" value="LeftAndRightHandedDiv2Test" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx256m" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -117,15 +189,15 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ShorterSuperSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ShorterSuperSum" />
+    <configuration name="NumbersChallengeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumbersChallenge" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ShorterSuperSumTest" />
+      <option name="MAIN_CLASS_NAME" value="NumbersChallengeTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx256m" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -134,32 +206,32 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ThePalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThePalindrome" />
+    <configuration name="NumbersChallengeTest.test0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NumbersChallenge" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ThePalindromeTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ThePalindromeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThePalindrome" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ThePalindromeTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="NumbersChallengeTest" />
+      <option name="METHOD_NAME" value="test0" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea -Xmx64m" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx256m" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TwoWaysSortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TwoWaysSorting" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TwoWaysSortingTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Xmx256m" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -220,19 +292,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FibonacciDiv2Test" />
-      <item itemvalue="JUnit.SRMCardsTest" />
-      <item itemvalue="JUnit.ShorterSuperSumTest" />
-      <item itemvalue="JUnit.ThePalindromeTest" />
-      <item itemvalue="JUnit.ThePalindromeTest.test2" />
+      <item itemvalue="JUnit.EmoticonsDiv2Test" />
+      <item itemvalue="JUnit.LeftAndRightHandedDiv2Test" />
+      <item itemvalue="JUnit.NumbersChallengeTest" />
+      <item itemvalue="JUnit.NumbersChallengeTest.test0" />
+      <item itemvalue="JUnit.TwoWaysSortingTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ThePalindromeTest" />
-        <item itemvalue="JUnit.ThePalindromeTest" />
-        <item itemvalue="JUnit.ThePalindromeTest.test2" />
-        <item itemvalue="JUnit.ShorterSuperSumTest" />
-        <item itemvalue="JUnit.ShorterSuperSumTest" />
+        <item itemvalue="JUnit.TwoWaysSortingTest" />
+        <item itemvalue="JUnit.NumbersChallengeTest" />
+        <item itemvalue="JUnit.NumbersChallengeTest.test0" />
+        <item itemvalue="JUnit.LeftAndRightHandedDiv2Test" />
+        <item itemvalue="JUnit.EmoticonsDiv2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -251,47 +323,53 @@
       <workItem from="1522215055282" duration="3084000" />
       <workItem from="1522243405821" duration="903000" />
       <workItem from="1522305308886" duration="2031000" />
-      <workItem from="1522307674762" duration="283000" />
+      <workItem from="1522307674762" duration="4374000" />
+      <workItem from="1522328159565" duration="1504000" />
+      <workItem from="1522401572952" duration="1831000" />
+      <workItem from="1522412585684" duration="599000" />
+      <workItem from="1522473535602" duration="7031000" />
+      <workItem from="1522513601185" duration="7853000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ThePalindromeTest - 2018.03.29 at 12h 34m 35s.xml">
-      <configuration name="ThePalindromeTest" configurationId="JUnit" />
+    <history-entry file="LeftAndRightHandedDiv2Test - 2018.04.01 at 01h 44m 13s.xml">
+      <configuration name="LeftAndRightHandedDiv2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 35m 18s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="NumbersChallengeTest - 2018.04.01 at 02h 14m 25s.xml">
+      <configuration name="NumbersChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 36m 18s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="NumbersChallengeTest - 2018.04.01 at 02h 41m 20s.xml">
+      <configuration name="NumbersChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 36m 39s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="NumbersChallengeTest - 2018.04.01 at 02h 42m 46s.xml">
+      <configuration name="NumbersChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest - 2018.03.29 at 12h 36m 59s.xml">
-      <configuration name="ThePalindromeTest" configurationId="JUnit" />
+    <history-entry file="NumbersChallengeTest_test0 - 2018.04.01 at 02h 44m 32s.xml">
+      <configuration name="NumbersChallengeTest.test0" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 37m 56s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="NumbersChallengeTest_test0 - 2018.04.01 at 02h 44m 40s.xml">
+      <configuration name="NumbersChallengeTest.test0" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 39m 05s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="NumbersChallengeTest - 2018.04.01 at 02h 44m 46s.xml">
+      <configuration name="NumbersChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 39m 09s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="TwoWaysSortingTest - 2018.04.01 at 02h 45m 17s.xml">
+      <configuration name="TwoWaysSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest_test2 - 2018.03.29 at 12h 39m 50s.xml">
-      <configuration name="ThePalindromeTest.test2" configurationId="JUnit" />
+    <history-entry file="TwoWaysSortingTest - 2018.04.01 at 02h 49m 52s.xml">
+      <configuration name="TwoWaysSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThePalindromeTest - 2018.03.29 at 12h 46m 17s.xml">
-      <configuration name="ThePalindromeTest" configurationId="JUnit" />
+    <history-entry file="TwoWaysSortingTest - 2018.04.01 at 02h 50m 34s.xml">
+      <configuration name="TwoWaysSortingTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8698000" />
+    <option name="totallyTimeSpent" value="31607000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
@@ -301,8 +379,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -330,10 +408,24 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PrimeSoccer/src/PrimeSoccer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThePalindrome/src/ThePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SRMCards/src/SRMCards.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -390,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThePalindrome/src/ThePalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ShorterSuperSum/src/ShorterSuperSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -411,8 +496,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThePalindrome/resource/ThePalindrome.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ThePalindrome/src/ThePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoxAndSightseeing/src/FoxAndSightseeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColorfulRoad/src/ColorfulRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiNumber/src/MultiNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiNumber/test/MultiNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeSoccer/src/PrimeSoccer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumberofFiboCalls/test/NumberofFiboCallsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AttendanceShort/src/AttendanceShort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumberofFiboCalls/src/NumberofFiboCalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmoticonsDiv2/src/EmoticonsDiv2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeftAndRightHandedDiv2/src/LeftAndRightHandedDiv2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumbersChallenge/src/NumbersChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoWaysSorting/src/TwoWaysSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoWaysSorting/test/TwoWaysSortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
