@@ -4,17 +4,27 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AttendanceShort/AttendanceShort.iml" filepath="$PROJECT_DIR$/AttendanceShort/AttendanceShort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ColorfulRoad/ColorfulRoad.iml" filepath="$PROJECT_DIR$/ColorfulRoad/ColorfulRoad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DivFreed2/DivFreed2.iml" filepath="$PROJECT_DIR$/DivFreed2/DivFreed2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysCheckers/EllysCheckers.iml" filepath="$PROJECT_DIR$/EllysCheckers/EllysCheckers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysDirectoryListing/EllysDirectoryListing.iml" filepath="$PROJECT_DIR$/EllysDirectoryListing/EllysDirectoryListing.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmoticonsDiv2/EmoticonsDiv2.iml" filepath="$PROJECT_DIR$/EmoticonsDiv2/EmoticonsDiv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FibonacciDiv2/FibonacciDiv2.iml" filepath="$PROJECT_DIR$/FibonacciDiv2/FibonacciDiv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FoxAndSightseeing/FoxAndSightseeing.iml" filepath="$PROJECT_DIR$/FoxAndSightseeing/FoxAndSightseeing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfiniteString/InfiniteString.iml" filepath="$PROJECT_DIR$/InfiniteString/InfiniteString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Istr/Istr.iml" filepath="$PROJECT_DIR$/Istr/Istr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LISNumberDivTwo/LISNumberDivTwo.iml" filepath="$PROJECT_DIR$/LISNumberDivTwo/LISNumberDivTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeftAndRightHandedDiv2/LeftAndRightHandedDiv2.iml" filepath="$PROJECT_DIR$/LeftAndRightHandedDiv2/LeftAndRightHandedDiv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiNumber/MultiNumber.iml" filepath="$PROJECT_DIR$/MultiNumber/MultiNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MutaliskEasy/MutaliskEasy.iml" filepath="$PROJECT_DIR$/MutaliskEasy/MutaliskEasy.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberofFiboCalls/NumberofFiboCalls.iml" filepath="$PROJECT_DIR$/NumberofFiboCalls/NumberofFiboCalls.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumbersChallenge/NumbersChallenge.iml" filepath="$PROJECT_DIR$/NumbersChallenge/NumbersChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeSoccer/PrimeSoccer.iml" filepath="$PROJECT_DIR$/PrimeSoccer/PrimeSoccer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RGBStreet/RGBStreet.iml" filepath="$PROJECT_DIR$/RGBStreet/RGBStreet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SRMCards/SRMCards.iml" filepath="$PROJECT_DIR$/SRMCards/SRMCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShorterSuperSum/ShorterSuperSum.iml" filepath="$PROJECT_DIR$/ShorterSuperSum/ShorterSuperSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThePalindrome/ThePalindrome.iml" filepath="$PROJECT_DIR$/ThePalindrome/ThePalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficCongestionDivTwo/TrafficCongestionDivTwo.iml" filepath="$PROJECT_DIR$/TrafficCongestionDivTwo/TrafficCongestionDivTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoWaysSorting/TwoWaysSorting.iml" filepath="$PROJECT_DIR$/TwoWaysSorting/TwoWaysSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/topcoder_practice.iml" filepath="$PROJECT_DIR$/topcoder_practice.iml" />
     </modules>
